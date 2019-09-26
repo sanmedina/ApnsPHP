@@ -1,6 +1,7 @@
 {
 	"name": "sanmedina/apns-php",
 	"type": "library",
+	"version": "1.1.0",
 	"description": "Apple Push Notification & Feedback Provider",
 	"keywords": ["APNS", "apple", "push", "notification"],
 	"homepage": "https://github.com/immobiliare/ApnsPHP",
